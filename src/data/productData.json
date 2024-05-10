@@ -1,0 +1,40 @@
+{
+    "product_count": 100,
+    "results": [
+        {
+          "idx": 1,
+          "name" : "향수1",
+          "brandIdx": 1,
+          "categoryIdx":1,
+          "price":30000,
+          "salePrice":24900,
+          "deliveryType" : "일반 택배",
+          "isTodayDeal" : "x",
+          "imageurl" : "https://image.idus.com/image/files/3fc39b6e770244a2af0ad0e243d53676_512.png"
+        },{
+          "idx": 2,
+          "name" : "향수2",
+          "brandIdx": 1,
+          "categoryIdx":1,
+          "price":30000,
+          "salePrice":24900,
+          "deliveryType" : "일반 택배",
+          "isTodayDeal" : "x",
+          "imageurl" : "https://image.idus.com/image/files/14646a0bffc74a8cab94be5ee6be67c0_512.jpg"
+        },{  
+          "idx": 3,
+          "name" : "향수3",
+          "brandIdx": 1,
+          "categoryIdx":1,
+          "price":30000,
+          "salePrice":24900,
+          "deliveryType" : "일반 택배",
+          "isTodayDeal" : "x",
+          "imageurl" : "https://image.idus.com/image/files/f4b4b5dd1d9e4f119570b9bc010776da_512.jpg"
+        }
+        
+        
+          
+    ]
+  }
+  
